@@ -28,7 +28,7 @@ def download_prices(ticker, start=None, end=None, period="1y", interval="1d", sa
 
 
 if __name__ == "__main__":
-    df = download_prices("AAPL", start="2019-12-31", end="2026-04-29", interval="1d", save_path="aapl_28apr.csv")
+    df = download_prices("AAPL", start="2020-01-01", end="2026-04-29", interval="1d", save_path="aapl_28apr.csv")
     print(df.tail())
 
 
