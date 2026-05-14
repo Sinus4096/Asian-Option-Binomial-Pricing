@@ -19,7 +19,7 @@ The project is organized into the following directories and files, as seen in th
 * **`Task_vii.ipynb`**: A dedicated notebook for developing the normal distribution approximation used to validate the binomial model's results.
 
 ### Data
-* **`aapl_28apr.csv`**: The dataset containing historical price information used to set the initial price $S_0$ as of April 28, 2026.
+* **`aapl_28apr.csv`**: The dataset containing historical price information used to set the initial price $S_0$ as of April 28, 2026 and calculate the historical volatility.
 
 ---
 
